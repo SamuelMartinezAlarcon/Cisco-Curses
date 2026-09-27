@@ -14,4 +14,4 @@ This repository contains projects, labs, and assignments developed throughout my
 
 ## ✒️ Author
 
-* **Samu17ma** - [GitHub Profile](https://github.com/Samu17ma)
+* **Samu17ma** - [GitHub Profile](https://github.com/SamuelMartinezAlarcon)
